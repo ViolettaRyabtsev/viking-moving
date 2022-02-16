@@ -1,0 +1,17 @@
+.main-text {
+  padding: 20px;
+}
+
+.main-text p {
+  padding-bottom: 30px;
+  padding-top: 30px;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 1px;
+  padding: 25px;
+}
+
+.viking {
+  padding-bottom: 15px;
+  text-align: center;
+}

@@ -1,0 +1,38 @@
+.about-us-container-moving {
+  display: flex;
+}
+.text {
+  padding-bottom: 200px;
+}
+
+.text h3 {
+  text-align: center;
+}
+
+.text p {
+  text-align: center;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+  padding: 20px;
+}
+
+.carousel {
+  margin-top: 50px;
+  height: 300px;
+  display: flex;
+  padding: 20px;
+}
+.carousel ul {
+  display: grid;
+  margin-left: 30px;
+}
+.photos {
+  height: 400px;
+  width: 500px;
+}
+
+@media all and (max-width: 378px) {
+  .about-us-container-moving {
+    margin-bottom: 800px;
+  }
+}
