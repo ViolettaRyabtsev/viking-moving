@@ -1,0 +1,11 @@
+.text h2 {
+  text-align: center;
+  opacity: 0.7;
+}
+
+.text p {
+  text-align: center;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+  padding: 20px;
+}

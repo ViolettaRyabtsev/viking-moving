@@ -14,6 +14,10 @@ function ContactUs() {
         ></img>
       </div>
       <div className="text">
+        <h2>
+          This is an exclusive channel where you can get in touch with Viking.
+          Send us your suggestion, doubt or compliment.
+        </h2>
         <div className="contact-form">
           <Formik
             initialValues={{

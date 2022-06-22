@@ -59,28 +59,67 @@ a {
 }
 
 .top-navbar .phone {
-  float: right;
   width: 70%;
+  display: flex;
+  padding-left: 420px;
+  padding-top: 30px;
 }
 
 .phone-number {
-  padding-top: 40px;
+  padding-top: 10px;
+  border-left: 1px solid;
+  border-color: #bc986a;
+  width: 200px;
 }
 .phone-number h2 {
   justify-content: right;
   opacity: 0.9;
   font-size: 25px;
   font-weight: 1000;
-  padding-left: 500px;
+  padding-left: 10px;
   height: 30px;
   color: #bc986a;
 }
-
+.logo-phone {
+  color: #bc986a;
+  opacity: 0.8;
+  width: 40px;
+  height: 60px;
+  padding-top: 50px;
+  padding-right: 15px;
+}
 .footer {
   width: 100%;
-  height: 100px;
   opacity: 0.9;
-  background-color: #659dbd;
+  background-color: white;
+  position: absolute;
+  display: flex;
+  padding-left: 200px;
+}
+
+.footer .logo {
+  margin-left: 100px;
+  margin-top: 25px;
+}
+
+.footer h3 {
+  color: #bc986a;
+  padding-left: 10px;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.footer h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.footer .adress {
+  margin-left: 260px;
+  padding-top: 70px;
+  font-size: 19px;
+  font-weight: 500;
+  color: #bc986a;
 }
 
 @media all and (max-width: 378px) {

@@ -27,6 +27,11 @@
   margin-left: 450px;
   height: 60px;
   font-size: large;
+  margin-top: 20px;
+}
+
+.text p {
+  text-align: center;
 }
 
 @media all and (max-width: 378px) {

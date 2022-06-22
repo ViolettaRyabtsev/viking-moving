@@ -11,6 +11,8 @@ function TopLogo() {
         ></img>
       </div>
       <div className="phone">
+        <BsTelephoneForwardFill className="logo-phone" />
+
         <div className="phone-number">
           <h2>818 VIKINGS </h2>
           <h2>818 845 4647 </h2>

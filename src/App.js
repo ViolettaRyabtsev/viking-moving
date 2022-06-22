@@ -25,6 +25,9 @@ function App() {
         <Route path="/storage-services" element={<StorageServices />} />
         <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
+      <div>
+        <Footer />
+      </div>
     </div>
   );
 }

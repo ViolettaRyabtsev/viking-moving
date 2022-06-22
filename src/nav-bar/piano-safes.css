@@ -1,0 +1,14 @@
+.piano-photos img {
+  width: 450px;
+  height: 350px;
+  padding-left: 35px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.text p {
+  text-align: center;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+  padding: 20px;
+}

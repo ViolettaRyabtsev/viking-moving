@@ -8,7 +8,6 @@ function StorageServices() {
           src="https://s3.us-west-2.amazonaws.com/moveviking.com/images/abstract.jpg"
           alt="moving"
         ></img>
-        contact us
       </div>
       <div className="text">
         <p>
@@ -18,8 +17,9 @@ function StorageServices() {
           know how it feels! For that reason and for your convenience, Viking
           offers a great storage solution for you. We will store your things in
           our warehouse safely, accessibly and affordably, for a short stay or a
-          long period, which ever you decide is best for you. Call us and let us
-          know how we may be able to help you with your storage needs.
+          long period, which ever you decide is best for you. <br></br>{" "}
+          <br></br>Call us and let us know how we may be able to help you with
+          your storage needs.
         </p>
       </div>
       ;

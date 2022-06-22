@@ -1,10 +1,10 @@
 .about-us-container {
   display: flex;
-  margin-bottom: 400px;
+  margin-bottom: 1600px;
 }
 
 .about-us {
-  width: 1500px;
+  width: 1500px; 
 }
 .about-us img {
   width: 100%;

@@ -140,9 +140,7 @@ function MovingServices() {
                       height: "400px",
                       width: "500px",
                     }}
-                  >
-                    <span>{slideImage.caption}</span>
-                  </div>
+                  ></div>
                 </div>
               ))}
             </Slide>

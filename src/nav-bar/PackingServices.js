@@ -1,5 +1,5 @@
 import "./nav-bar.css";
-
+import "./packing.css";
 function PackingServices() {
   return (
     <div className="about-us-container">
@@ -18,7 +18,8 @@ function PackingServices() {
           moves. Once your movers arrive, we come into your home and pack all of
           your furniture and home furnishings in our moving blankets so they
           will be safe during the moving process and while they are being
-          transported. Viking will also specially wrap anything you have that is
+          transported.<br></br>
+          <br></br> Viking will also specially wrap anything you have that is
           fragile for you. The rest of your belongings are packed by you before
           your movers arrive and are then loaded on your moving truck! Viking
           will also provide re-usable boxes for you to pack things upon request.
@@ -32,12 +33,14 @@ function PackingServices() {
           into your home and pack books, clothes, audio and visual equipment as
           well as most of your basic belongings. The intermediate pack option is
           best for moves that are longer distance (such as Los Angeles to San
-          Francisco or San Francisco to San Diego). Our most important goal at
-          Viking is to make sure your furniture and belongings are packed well
-          and not damaged during the moving process. If you find that you have
-          more things than you want to take, but at the same time do not want to
-          simply dispose of or throw away your things, check out our short and
-          long-term STORAGE SERVICES.
+          Francisco or San Francisco to San Diego).<br></br>
+          <br></br> Our most important goal at Viking is to make sure your
+          furniture and belongings are packed well and not damaged during the
+          moving process.<br></br>
+          <br></br> If you find that you have more things than you want to take,
+          but at the same time do not want to simply dispose of or throw away
+          your things, check out our short and long-term <b>STORAGE SERVICES</b>
+          .
         </p>
         <h2>FULL PACK</h2>
         <p>
@@ -51,7 +54,7 @@ function PackingServices() {
           move.
         </p>
       </div>
-      ;
+      
     </div>
   );
 }
